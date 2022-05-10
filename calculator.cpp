@@ -11,7 +11,7 @@ int main()
         cout<<"3. Urjih\n";
         cout<<"4. Huvaah\n";
         cout<<"5. Garah\n\n";
-        cout<<"Hiih uildelee songono uu(1-5): ";
+        cout<<"Ymar uildel hiih ve?(1-5): ";
         cin>>choice;
         if(choice>=1 && choice<=4)
         {
